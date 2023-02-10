@@ -1,0 +1,21 @@
+.thumbnail {
+  list-style-type: none;
+}
+.btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.image {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+.image-btn {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  opacity: 1;
+}

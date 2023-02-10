@@ -1,0 +1,14 @@
+.thumbnail-container {
+  height: 300px;
+  width: 500px;
+}
+@media screen and (max-width: 576px) {
+  .thumbnail-container {
+    height: 150px;
+    width: 350px;
+  }
+}
+.thumbnail-image {
+  height: 100%;
+  width: 100%;
+}
